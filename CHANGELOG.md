@@ -1,9 +1,3 @@
-## 4.3.3 - 2017-04-27
-- Fix typescript typings typos
-
-## 4.3.2 - 2017-03-03
-- Add typescript typings
-
 ## 4.3.1 - 2017-01-21
 - Update plugin.xml to prevent possible conflicts with other plugins
 
